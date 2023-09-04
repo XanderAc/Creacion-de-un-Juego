@@ -1,2 +1,2 @@
-# Creacion-de-un-Juego
-Creación del Juego del ahorcado en c++, utillizando estructuras 
+# Juego-del-Ahorcado
+Creación del Juego del ahorcado en c++, utilizando estructuras 
